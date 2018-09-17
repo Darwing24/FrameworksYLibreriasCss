@@ -1,0 +1,35 @@
+.fijo {
+ background-attachment: fixed;
+
+}
+
+
+.height10 {
+  margin: 10px auto 10px auto;
+}
+
+
+.heightauto {
+  height: auto;
+}
+
+.widthpercent {
+  width: 100%;
+}
+
+
+.paddingNone {
+  padding: 0;
+}
+
+.margin5percent {
+  margin: auto 5% auto 5%;
+}
+
+.marginleft5px {
+  margin-left: 5px;
+}
+
+.borderBlack {
+  border-color: black;
+}
